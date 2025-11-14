@@ -1,0 +1,13 @@
+{
+  "name": "json-normalizer",
+  "version": "0.1.0",
+  "description": "Normalize and validate the provided JSON config/history/customer files.",
+  "main": "normalize_and_validate.js",
+  "scripts": {
+    "start": "node normalize_and_validate.js"
+  },
+  "engines": {
+    "node": ">=14"
+  },
+  "dependencies": {}
+}

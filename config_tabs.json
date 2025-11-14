@@ -1,0 +1,29 @@
+{
+    "shared": {
+        "width": "60",
+        "height": "40",
+        "printer": "Gprinter GP-1225Z"
+    },
+    "service": {
+        "M\u00fc\u015fteri Ad\u0131 Soyad": "test",
+        "Eczane \u0130smi": "test",
+        "\u0130leti\u015fim No": "test",
+        "\u0130l": "test",
+        "\u0130l\u00e7e": "testttt",
+        "Yap\u0131lan \u0130\u015flem": "test"
+    },
+    "shipping": {
+        "entries": {
+            "M\u00fc\u015fteri Ad\u0131 Soyad\u0131": "test",
+            "\u0130\u015fletme Ad\u0131": "test",
+            "\u0130leti\u015fim": "test",
+            "G\u00f6nderici": "Possify Bilgisayar - \u015eEH\u0130RMA\u011eAZA ADINIZ - \u015eEH\u0130RMA\u011eAZA ADINIZ - \u015eEH\u0130R"
+        },
+        "combos": {
+            "il": "\u0130stanbul",
+            "ilce": "",
+            "kargo": "Yurti\u00e7i Kargo",
+            "odeme": "Pe\u015fin \u00d6deme (G\u00f6nderici)"
+        }
+    }
+}

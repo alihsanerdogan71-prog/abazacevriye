@@ -1,0 +1,38 @@
+{
+  "theme": "cosmo",
+  "sender": "POSSIFY BİLGİSAYAR",
+  "kdv_rate": "0.2",
+  "dpi": "203",
+  "auto_save_customer": true,
+  "service_def_w": "60",
+  "service_def_h": "40",
+  "kargo_def_w": "60",
+  "kargo_def_h": "40",
+  "doviz_def_w": "60",
+  "doviz_def_h": "40",
+  "kutu_def_w": "60",
+  "kutu_def_h": "40",
+  "durum_options": [
+    "ÖDEME BEKLENİYOR",
+    "CARİ BEKLENİYOR",
+    "GARANTİ KAPSAMINDA ONARILDI"
+  ],
+  "kutu_options": [
+    "ADAPTÖR VE USB KABLO VAR.",
+    "ADAPTÖR VE USB KABLO YOK.",
+    "ETİKET VE ETİKET KUKASI VAR."
+  ],
+  "kargo_options": [
+    "YURTİÇİ KARGO",
+    "MNG KARGO",
+    "ARAS KARGO",
+    "SÜRAT KARGO"
+  ],
+  "odeme_options": [
+    "PEŞİN ÖDEME",
+    "ÜCRET ALICI"
+  ],
+  "last_printer": "Gprinter GP-1225Z",
+  "log_user": "selcuk",
+  "log_pass": "5377"
+}

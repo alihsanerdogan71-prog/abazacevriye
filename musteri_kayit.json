@@ -1,0 +1,206 @@
+{
+  "servis": {
+    "test": {
+      "Müşteri Adı Soyadı": "est",
+      "İşletme Adı": "test",
+      "İletişim No": "test",
+      "İl": "Adana",
+      "İlçe": "Aladağ",
+      "Son İşlem Tarihi": "21.10.2025"
+    },
+    "0536 838 63 63": {
+      "Müşteri Adı Soyadı": "test",
+      "İşletme Adı": "test eczanesi",
+      "İletişim No": "0536 838 63 63",
+      "İl": "İstanbul",
+      "İlçe": "Şişli",
+      "Son İşlem Tarihi": "31.10.2025"
+    },
+    "0536 318 31 22": {
+      "Müşteri Adı Soyadı": "RÜVET ÖRGE KAYA",
+      "İşletme Adı": "ÖRGE ECZANESİ ",
+      "İletişim No": "0536 318 31 22",
+      "İl": "Mersin",
+      "İlçe": "Toroslar",
+      "Son İşlem Tarihi": "22.10.2025"
+    },
+    "0541 464 70 97": {
+      "Müşteri Adı Soyadı": "ZUHAL DEMİR",
+      "İşletme Adı": "DEVA ECZANESİ",
+      "İletişim No": "0541 464 70 97",
+      "İl": "Adana",
+      "İlçe": "Ceyhan",
+      "Son İşlem Tarihi": "24.10.2025"
+    },
+    "0541 873 07 35": {
+      "Müşteri Adı Soyadı": "GÖKAN ECEVİT",
+      "İşletme Adı": "ALİN  ECZANESİ",
+      "İletişim No": "0541 873 07 35",
+      "İl": "Antalya",
+      "İlçe": "Konyaaltı",
+      "Son İşlem Tarihi": "24.10.2025"
+    },
+    "0533 742 62 42": {
+      "Müşteri Adı Soyadı": "Gültekin Özden",
+      "İşletme Adı": "Teknoloji Pos",
+      "İletişim No": "0533 742 62 42",
+      "İl": "İstanbul",
+      "İlçe": "Beyoğlu",
+      "Son İşlem Tarihi": "07.11.2025"
+    },
+    "0530 069 65 11": {
+      "Müşteri Adı Soyadı": "Temel Volkan Koşal",
+      "İşletme Adı": "Temmuz Eczanesi",
+      "İletişim No": "0530 069 65 11",
+      "İl": "İstanbul",
+      "İlçe": "Avcılar",
+      "Son İşlem Tarihi": "10.11.2025"
+    },
+    "0507 026 99 60": {
+      "Müşteri Adı Soyadı": "ALİ ŞEKİP ECZANESİ\n",
+      "İşletme Adı": "ALİ ECZANESİ",
+      "İletişim No": "0507 026 99 60",
+      "İl": "Ankara",
+      "İlçe": "Altındağ",
+      "Son İşlem Tarihi": "11.11.2025"
+    },
+    "0544 406 65 01": {
+      "Müşteri Adı Soyadı": "ECZ.BİRSEN BOZOĞLU\n",
+      "İşletme Adı": "BİRSEN ECZANESİ",
+      "İletişim No": "0544 406 65 01",
+      "İl": "Ankara",
+      "İlçe": "Keçiören",
+      "Son İşlem Tarihi": "11.11.2025"
+    },
+    "0542 811 61 17\n": {
+      "Müşteri Adı Soyadı": "ECZ.İSMAİL CAN BUDAK\n",
+      "İşletme Adı": "DİLEK ECZANESİ",
+      "İletişim No": "0542 811 61 17\n",
+      "İl": "Tokat",
+      "İlçe": "Merkez",
+      "Son İşlem Tarihi": "11.11.2025"
+    },
+    "05362662418": {
+      "Müşteri Adı Soyadı": "Beyhan Aytaç",
+      "İşletme Adı": "Gül Eczanesi",
+      "İletişim No": "05362662418",
+      "İl": "İstanbul",
+      "İlçe": "Tuzla",
+      "Son İşlem Tarihi": "12.11.2025"
+    },
+    "0542 360 66 56": {
+      "Müşteri Adı Soyadı": "Begüm Narin Toptan",
+      "İşletme Adı": "Begüm Eczanesi",
+      "İletişim No": "0542 360 66 56",
+      "İl": "Samsun",
+      "İlçe": "Atakum",
+      "Son İşlem Tarihi": "13.11.2025"
+    },
+    "0506 372 65 10": {
+      "Müşteri Adı Soyadı": "EGE ECZANESİ",
+      "İşletme Adı": "ALİ RÜÇHAN CABAR",
+      "İletişim No": "0506 372 65 10",
+      "İl": "Manisa",
+      "İlçe": "Salihli",
+      "Son İşlem Tarihi": "13.11.2025"
+    },
+    "0555 633 95 10\n": {
+      "Müşteri Adı Soyadı": "OĞUZ DİRİCAN\n",
+      "İşletme Adı": "ORHAN ECZANESİ",
+      "İletişim No": "0555 633 95 10\n",
+      "İl": "İstanbul",
+      "İlçe": "Avcılar",
+      "Son İşlem Tarihi": "13.11.2025"
+    },
+    "0535 584 35 88\n": {
+      "Müşteri Adı Soyadı": "AYŞE KARAGÖZ",
+      "İşletme Adı": "IRMAK ECZANESİ",
+      "İletişim No": "0535 584 35 88\n",
+      "İl": "Antalya",
+      "İlçe": "Aksu",
+      "Son İşlem Tarihi": "13.11.2025"
+    },
+    "0507 382 95 70\n": {
+      "Müşteri Adı Soyadı": "CEM EMRE DELİBAŞ\n",
+      "İşletme Adı": "EMRE ECZANESİ",
+      "İletişim No": "0507 382 95 70\n",
+      "İl": "Bitlis",
+      "İlçe": "Adilcevaz",
+      "Son İşlem Tarihi": "13.11.2025"
+    }
+  },
+  "kargo": {
+    "0542 779 66 26": {
+      "Müşteri Adı Soyadı": "Türkan Şen",
+      "İşletme Adı": "Safir Eczanesi",
+      "İletişim": "0542 779 66 26",
+      "İl": "İzmir",
+      "İlçe": "Çiğli",
+      "Son İşlem Tarihi": "21.10.2025"
+    },
+    "0536 318 31 22": {
+      "Müşteri Adı Soyadı": "RÜVET ÖRGE KAYA",
+      "İşletme Adı": "ÖRGE ECZANESİ ",
+      "İletişim": "0536 318 31 22",
+      "İl": "Mersin",
+      "İlçe": "Toroslar",
+      "Son İşlem Tarihi": "22.10.2025"
+    },
+    "05345541316": {
+      "Müşteri Adı Soyadı": " SELVİ BUKET BOYACI",
+      "İşletme Adı": "ATLAS ECZANESİ",
+      "İletişim": "05345541316",
+      "İl": "Mersin",
+      "İlçe": "Yenişehir",
+      "Son İşlem Tarihi": "23.10.2025"
+    },
+    "0541 464 70 97": {
+      "Müşteri Adı Soyadı": "ZUHAL DEMİR",
+      "İşletme Adı": "DEVA ECZANESİ",
+      "İletişim": "0541 464 70 97",
+      "İl": "Adana",
+      "İlçe": "Ceyhan",
+      "Son İşlem Tarihi": "24.10.2025"
+    },
+    "05333518065": {
+      "Müşteri Adı Soyadı": "",
+      "İşletme Adı": "KAKTÜS BİLİŞİM",
+      "İletişim": "05333518065",
+      "İl": "Ankara",
+      "İlçe": "Yenimahalle",
+      "Son İşlem Tarihi": "24.10.2025"
+    },
+    "0536 838 63 63": {
+      "Müşteri Adı Soyadı": "Test",
+      "İşletme Adı": "test eczanesi",
+      "İletişim": "0536 838 63 63",
+      "İl": "İstanbul",
+      "İlçe": "Şişli",
+      "Son İşlem Tarihi": "31.10.2025"
+    },
+    "90 532 799 21 71": {
+      "Müşteri Adı Soyadı": "BİLGEN BOY",
+      "İşletme Adı": "BİLGEN ECZANESİ",
+      "İletişim": "90 532 799 21 71",
+      "İl": "Zonguldak",
+      "İlçe": "Merkez",
+      "Son İşlem Tarihi": "10.11.2025"
+    },
+    "05064838314": {
+      "Müşteri Adı Soyadı": "BİLGE MELEK ŞEN ELVAN",
+      "İşletme Adı": "ŞEN ECZANESİ",
+      "İletişim": "05064838314",
+      "İl": "Konya",
+      "İlçe": "Ereğli",
+      "Son İşlem Tarihi": "10.11.2025"
+    },
+    "0507 026 99 60\n": {
+      "Müşteri Adı Soyadı": "ALİ ŞEKİP ERCİYES",
+      "İşletme Adı": "ALİ ECZANESİ",
+      "İletişim": "0507 026 99 60\n",
+      "İl": "Ankara",
+      "İlçe": "Keçiören",
+      "Son İşlem Tarihi": "12.11.2025"
+    }
+  }
+}
